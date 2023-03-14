@@ -1,7 +1,1 @@
 // netlify.toml
-[[edge_functions]]
-  path = "/s/*" 
-  function = "injectGeoCookie"
-[[edge_functions]]
-  path = "/z/*" 
-  function = "injectGeoCookie"
