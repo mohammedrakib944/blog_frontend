@@ -57,7 +57,7 @@ const Footer = () => {
           </Link>
         </div>
         <div>
-          <p>Copyright © 2023 - Md.Rakibuzzaman</p>
+          <p>Copyright (c) 2023 mohammedrakib944</p>
         </div>
       </footer>
     </div>
